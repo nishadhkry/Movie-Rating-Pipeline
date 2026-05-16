@@ -25,7 +25,7 @@ DataFrames API
 CSV File Processing
 Databricks
 
-#Analytics Performed
+# Analytics Performed
 
 ⭐ Average Movie Ratings
 
