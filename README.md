@@ -44,6 +44,14 @@ Analyze rating activity by users.
 Find highest-rated movies based on average score.
 
 
+
+
+
+
+
+
+
+
 👩‍💻 Author
 
 Nisha Adhikari
