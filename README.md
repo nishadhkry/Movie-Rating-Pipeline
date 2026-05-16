@@ -25,7 +25,8 @@ DataFrames API
 CSV File Processing
 Databricks
 
- #Analytics Performed
+#Analytics Performed
+
 ⭐ Average Movie Ratings
 
 Calculate average ratings for each movie.
