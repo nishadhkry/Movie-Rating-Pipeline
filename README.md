@@ -52,7 +52,7 @@ Find highest-rated movies based on average score.
 
 
 
-👩‍💻 Author
+# 👩‍💻 Author
 
 Nisha Adhikari
 
